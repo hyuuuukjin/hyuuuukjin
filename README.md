@@ -1,3 +1,3 @@
 ### **Hyukjin Jang**
 
-I'm studying about AI/Software at GCU.
+I'm studying AI/Software at GCU.
