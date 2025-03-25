@@ -1,3 +1,3 @@
 ### **Hyukjin Jang**
 
-AI/Software GCU.
+AI/Software GCU
